@@ -1,0 +1,355 @@
+0 Using Association Rules to Solve the Cold-Start Problem in Recommender Systems.txt
+0 Capture of Evidence for Summarization An application of enhanced Subjective Logic.txt
+0 Quad-tuple PLSA  Incorporating Entity and Its Rating in Aspect Identification.txt
+0 Automatic Identification of Protagonist in Fairy Tales using Verb.txt
+0 On Finding the Natural Number of Topics with Latent Dirichlet Allocation Some Observations.txt
+0 Learning to Diversify Expert Finding with Subtopics.txt
+0 A Two-stage Approach for Generating Topic Models.txt
+0 Joint Naïve Bayes and LDA for Unsupervised Sentiment Analysis.txt
+0 Supervising Latent Topic Model for Maximum-Margin Text Classification and Regression.txt
+0 Split-Merge Augmented Gibbs Sampling for Hierarchical Dirichlet Processes.txt
+0 Inducing Context Gazetteers from Encyclopedic Databases for Named Entity Recognition.txt
+0 Mining Wikipedia and Yahoo! Answers for Question Expansion in Opinion QA.txt
+0 Named entity recognition and identification for finding the owner of a home page.txt
+0 Vocabulary Filtering for Term Weighting in Archived Question Search.txt
+0 Semantic Social Network Analysis with Text Corpora.txt
+0 Constrained-hLDA for Topic Discovery in Chinese Microblogs.txt
+0 Detecting and Analyzing Influenza Epidemics with Social Media in China.txt
+0 Mining Specific Features for Acquiring User Information Needs.txt
+0 Patterns amongst Competing Task Frequencies  Super-Linearities, and the Almond-DG model.txt
+0 Text Document Topical Recursive Clustering and Automatic Labeling of a Hierarchy of Document Clusters.txt
+0 Semantic Title Evaluation and Recommendation Based on Topic Models.txt
+0 Query-document Relevance Topic Models.txt
+0 Feature Subsumption for Sentiment Classification in Multiple Languages.txt
+0 Finding Better Topics - Features, Priors and Constraints.txt
+0 Positional Translation Language Model for Ad-Hoc Information Retrieval.txt
+0 Sequential Entity Group Topic Model for Getting Topic Flows of Entity Groups Within One Document.txt
+0 Crest  Cluster-based Representation Enrichment for Short Text Classification.txt
+0 Blog Opinion Retrieval based on Topic-opinion Mixture Model.txt
+0 Opinion-Based Imprecise Query Answering.txt
+0 For User-driven Software Evolution- Requirements Elicitation Derived from Mining Online Reviews.txt
+1 Mining Correlation Patterns among Appliances in Smart Home Environment.txt
+1 SkyDist Data Mining on Skyline Objects.txt
+1 Discovering Coverage Patternsfor Banner Advertisement Placement.txt
+1 Anonymizing Transaction Data by Integrating Suppression and Generalization.txt
+1 The Pattern Next Door Towards Spatio-Sequential Pattern Discovery.txt
+1 Efficient Mining of Contrast Patterns on Large Scale Imbalanced Real-life Data.txt
+1 Ranking sequential patterns with respect to significance.txt
+1 Fast Vertical Mining of Sequential Patterns Using Co-occurrence Information.txt
+1 Mining Closed Episodes from Event Sequences Efficiently.txt
+1 Mining Frequent Patterns from Human Interactions in Meetings using Directed Acyclic Graphs.txt
+1 Summarizing Multidimensional Data Stream - A Hierarchy-Graph-Based Approach.txt
+1 Mining Interesting Itemsets in Graph Datasets.txt
+1 Frequent Pattern Mining in Attributed Trees.txt
+1 DPSP Distributed Progressive Sequential Pattern Mining on the Cloud.txt
+1 Mining Diversified Shared Decision Tree Sets for Discovering Cross Domain Similarities.txt
+1 Scalable mining of frequent tri-concepts from folksonomies.txt
+1 ClaSP  An Efficient Algorithm for Mining Frequent Closed Sequences.txt
+1 Mining Appliance Usage Patterns in a Smart Home Environment.txt
+1 RadialViz  An Orientation-Free Frequent Pattern Visualizer.txt
+1 Peer Matrix Alignment- A New Algorithm.txt
+1 PUF-tree  A Compact Tree Structure for Frequent Pattern Mining of Uncertain Data.txt
+1 Mining Association Rules in Long Sequences.txt
+1 Valency Based Weighted Association Rule Mining.txt
+1 Mining Antagonistic Communities from Social Networks.txt
+1 New Exact Concise Representation of Rare Correlated Patterns  Application to Intrusion Detection.txt
+1 Finding Itemset-Sharing Patterns in a Large Itemset-Associated Graph.txt
+1 Balancing the Analysis of Frequent Patterns.txt
+1 Detecting Changes in Rare Patterns from Data Streams.txt
+2 Anonymization for Multiple Released Social Network Graphs.txt
+2 Exploring Groups from Heterogeneous Data via Sparse Learning.txt
+2 Prioritizing Disease Genes by Bi-Random Walk.txt
+2 Influential Nodes in One-Wave Diffusion Model for Location-Based Social Networks.txt
+2 Towards Linear Time Overlapping Community Detection in Social Networks.txt
+2 Robust Synchronization-based Graph Clustering.txt
+2 A Better Strategy of Discovering Link-Pattern based Communities by Classical Clustering Methods.txt
+2 fast triangle core decomposition.txt
+2 Reciprocal and Heterogeneous Link Prediction in Social Networks.txt
+2 Instant Social Graph Search.txt
+2 EWNI  Efficient Anonymization of Vulnerable Individuals in Social Networks.txt
+2 Characterizing Temporal Anomalies in Evolving Networks.txt
+2 EigenSpokes Surprising Patterns and Scalable Community Chipping in Large Graphs.txt
+2 Spread of Information in a Social Network Using Influential Nodes.txt
+2 Privacy-Preserving EM Algorithm for Clustering on Social Network.txt
+2 Structure-aware Distance Measures for Comparing Clusterings in Graphs.txt
+2 ViStruclizer  A Structural Visualizer for Multi-Dimensional Social Networks.txt
+2 Differential Privacy Preserving Spectral Graph Analysis.txt
+2 Estimate on Expectation for Influence Maximization in Social Networks.txt
+2 Balanced Seed Selection for Budgeted Influence Maximization in Social Networks.txt
+2 Finding Collections of k-Clique Percolated Components in Attributed Graphs.txt
+2 Spectral Decomposition for Optimal Graph Index Prediction.txt
+2 GTRACE2 Improving Performance Using Labeled Union Graphs.txt
+2 Learning Representative Nodes in Social Networks.txt
+2 Persistent Community Detection in Dynamic Social Networks.txt
+2 Adaptive Matching Based Kernels for Labeled Graphs.txt
+2 Multivariate Equi-width Data Swapping For Private Data Publication.txt
+2 Super Graph Classification.txt
+2 Neighborhood Random Classification.txt
+2 Subgraph Mining on Directed and Weighted Graphs.txt
+2 OddBall Spotting Anomalies in Weighted Graphs.txt
+2 Detecting Multiple Stochastic Network Motifs in Network Data.txt
+2 Extracting Diverse-Frequent Patterns with Unbalanced Concept Hierarchy.txt
+2 Integrating Clustering and Ranking on Hybrid Heterogeneous Information Network.txt
+2 Node Classification in Social Network via a Factor Graph Model.txt
+2 Hierarchical Web-page Clustering via In-page and Cross-page Link Structures.txt
+2 Overlapping Communities for Identifying Misbehavior in Network Communications.txt
+2 Basset Scalable Gateway Finder in Large Graphs.txt
+2 Online Sampling of High Centrality Individuals in Social Networks.txt
+2 Efficiently and Fast Learning A Fine-grained Stochastic Blockmodel From Large Networks.txt
+2 Tracing Influential Nodes in a Social Network with Competing Information.txt
+2 Com2 - Fast Automatic Discovery of Temporal ('Comet') Communities.txt
+2 Fault-tolerant Concept Detection in Information Networks.txt
+2 Net-Ray - Visualizing and Mining Web-Scale Graphs.txt
+2 A vertex similarity probability model for finding network community structure.txt
+3 Crowdordering.txt
+3 Satrap Data and network heterogeneity aware P2P data-mining.txt
+3 Two-View Online Learning.txt
+3 Crime Forecasting Using Spatio-Temporal Pattern with Ensemble Learning.txt
+3 Mining Biomedical Literature and Ontologies for Drug Repositioning Discovery.txt
+3 A Novel Weighted Ensemble Technique for Time Series Forecasting.txt
+3 Beyond Poisson - Modeling Inter-Arrival Times of Requests in a Datacenter.txt
+3 Efficient Deep Web Crawling Using Reinforcement Learning.txt
+3 A Relevance Weighted Ensemble Model for Anomaly Detection in Switching Data Streams.txt
+3 Signed-Error Conformal Regression.txt
+3 Highly Scalable Attribute Selection for AODE.txt
+3 Recurring and Novel Class Detection in Concept-Drifting Data Streams using Class-Based Ensemble.txt
+3 Inferring Attitude in Online Social Networks Based On Quadratic Correlation.txt
+3 Forward Classification on Data Streams.txt
+3 Time-Evolving Relational Classification and Ensemble Methods.txt
+3 Semi-supervised clustering on heterogeneous information networks.txt
+3 Deferentially Private Tagging Recommendation based on Topic Model.txt
+3 EEG-based Person Verification Using Multi-Sphere SVDD and UBM.txt
+3 Fast Graph Stream Classification Using Discriminative Clique Hashing.txt
+3 Discovering Semantics from Multiple Correlated Time Series.txt
+3 TWave High-Order Analysis of Spatiotemporal Data.txt
+3 Integrative Parameter-free Clustering of Data with Mixed Type Attributes.txt
+3 Rare Category Detection on O(dN) Time Complexity.txt
+3 Quantifying Reciprocity in Large Weighted Communication Networks.txt
+3 Domain Transfer via Multiple Sources Regularization.txt
+3 Learning from Crowds under Experts’ Supervision.txt
+3 NARGES  PREDICTION MODEL FOR INFORMED ROUTING IN A COMMUNICATIONS NETWORK.txt
+3 Latent Patient Profile Modelling and Applications with Mixed-Variate Restricted Boltzmann Machine.txt
+3 Hash-based Stream LDA - Topic Modeling in Social Streams.txt
+3 Mining Representative Movement Patterns through Compression.txt
+3 One Pass Concept Change Detection for Data Streams.txt
+3 Life Activity Modeling of News Event on Twitter Using Energy Function.txt
+3 Probabilistic User Modeling in the Presence of Drifting Concepts.txt
+3 An Integrated Model for User Attribute Discovery - A Case Study on Political Affiliation Identification.txt
+3 iVAT and aVAT Enhanced Visual Analysis for Cluster Tendency Assessment.txt
+3 Ontology-based Mining of Brainwaves A Sequence Similarity Technique .txt
+3 Influence Propagation - Patterns, Model and a Case Study.txt
+3 OMC-IDS At the Cross-Roads of OLAP Mining and Intrusion Detection.txt
+3 Satisfying Privacy Requirements One Step Before Anonymization.txt
+3 Improving iForest with relative mass.txt
+3 SHARD A Framework for Sequential, Hierarchical Anomaly Ranking and Detection.txt
+3 Dynamic Circle Recommendation- A Probabilistic Model.txt
+3 Decentralisation of ScoreFinder A Framework for Credibility Management on User-Generated Contents.txt
+3 Sorted Nearest Neighborhood Clustering for Efficient Private Blocking.txt
+3 Inferring Strange Behavior from Connectivity Pattern in Social Networks.txt
+3 Video Quality Prediction over Wireless 4G.txt
+3 Clustering-based $k$-Anonymity.txt
+3 F-Trail  Finding Patterns in Taxi Trajectories.txt
+3 On Linear Refinement of Differential Privacy-Preserving Query Answering.txt
+3 Scalable Random Forests for Massive Data.txt
+3 Unsupervised Sparse Matrix Co-Clustering for Marketing and Sales Intelligence.txt
+3 An Extension of the Infinite Relational Model Incorporating Interaction Between Objects.txt
+3 Resource-bounded Information Extraction Acquiring Missing Feature Values On Demand.txt
+3 Patent Evaluation Based on Technological Trajectory Revealed in Relevant Prior Patents.txt
+3 Privacy Preserving Publication of Locations Based on Delaunay Triangulation.txt
+3 Privacy-Preserving Collaborative Anomaly Detection for Participatory Sensing.txt
+3 Mining GPS Data for Trajectory Recommendation.txt
+3 Inferring Metapopulation Based Disease Transmission Networks.txt
+3 Noise-Tolerant Approximate Blocking for Dynamic Real-time Entity Resolution.txt
+3 Answer Diversification for Complex Question Answering on the Web.txt
+3 Supervised Learning with Minimal Effort.txt
+3 Framework for Storing and Processing Relational Entities in Stream Mining.txt
+3 Computation of Ratios of Secure Summations in Multi-Party Privacy-Preserving Latent Dirichlet Allocation.txt
+3 Modeling Social Information Learning among Taxi Drivers.txt
+3 Towards Identity Disclosure Control in Private Hypergraph Publishing.txt
+3 Online Cross-lingual PLSI for Evolutionary Theme Patterns Analysis.txt
+3 Intervention-Driven Predictive Framework for Modeling Healthcare Data.txt
+3 MultiAspectSpotting - Spotting Anomalous Behavior within Count Data using Tensor.txt
+3 Cross Language Prediction of Vandalism on Wikipedia using Article Views and Revisions.txt
+3 MalSpot- Multi^2 Malicious Network Behavior Patterns Analysis.txt
+3 Adaptive Temporal Entity Resolution on Dynamic Databases.txt
+3 Exploiting Machine Learning Techniques to Perform Side Channel Attack.txt
+4 Two sides of a coin - Separating Personal Communication and Public Dissemination Accounts in Twitter.txt
+4 Discovering Unknown But Interesting Items on Personal Social Network.txt
+4 Incremental Set Recommendation Based on Class Differences.txt
+4 Mining Usage Traces of Mobile Applications for Dynamic Preference Prediction.txt
+4 Location Recommendation Based on Periodicity of Human Activities and Location Categories.txt
+4 Hybrid-ε-greedy for Mobile Context-Aware Recommender System.txt
+4 NLPMM - a Next Location Predictor with Markov Modeling.txt
+4 Top-N Recommendations by Learning User Preference Dynamics.txt
+4 SLIM++- Higher-Order Slparse Linear Method for Top-N Recommender Systems.txt
+4 Matrix Factorization Without User Data Retention.txt
+4 Ranking Tweets with Local and Global Consistency Using Rich Features.txt
+4 WeightTransmitter  Weighted Association Rule Mining Using Landmark Weights.txt
+4 Data Augmented Maximum Margin Matrix Factorization for Flickr Group Recommendation.txt
+4 Automatic Fake Followers Detection in Chinese Micro-blogging System.txt
+4 Mining User Interests from Information Sharing Behaviors in Social Media.txt
+4 ReadBehavior - Reading Probabilities Modeling of Tweets via the User's Retweeting Behaviors.txt
+4 Semi-Supervised Tag Recommendation - Using Untagged Resources to Mitigate Coldstart Problems.txt
+4 Mining Mobile Users' Activities based on Search Query Text and Context.txt
+4 Expectation-Maximization Collaborative Filtering with Explicit and Implicit Feedback.txt
+4 Brownian Bridge Model for High Resolution Location Predictions.txt
+4 Latent Features Based Prediction on New Users’ Tastes.txt
+4 Product and User Dependent Social Network Models for Recommender Systems.txt
+4 Two-Phase Layered Learning Recommendation via Category Structure.txt
+4 Towards Personalized Context-Aware Recommendation by Mining Context Logs through Topic Models.txt
+4 Incremental Mining of Significant URLs in Real-Time and Large-Scale Social Streams.txt
+4 CTROF - A Collaborative Tweet Ranking Framework for Online Personalized Recommendation.txt
+4 Exploiting Temporal Information in a Two-stage Classification Framework for Content-based Depression Detection.txt
+5 Measuring Reproducibility of High-throughput Deep-sequencing Experiments based on Self-adaptive Mixture Copula.txt
+5 Unsupervised Ensemble Learning for Mining Top-n Outliers.txt
+5 Machine Learning Approaches for Interactive Verification.txt
+5 Generalized Two-Dimensional FLD Method for Feature Extraction An Application to Face Recognition.txt
+5 ProWSyn  Proximity Weighted Synthetic Oversampling Technique for Imbalanced Data Set Learning.txt
+5 BoostML An Adaptive Metric Learning for Nearest Neighbor Classification.txt
+5 Class Based Weighted K-Nearest Neighbor Over Imbalance Dataset.txt
+5 Ensemble Learning based on Multi-Task Class Labels.txt
+5 Classification and Novel Class Detection in Data Streams with Active Mining.txt
+5 A pruning-based approach for searching precise and generalized region for synthetic minority over-sampling.txt
+5 The Positive-biased Nearest Neighbour Rule for Imbalanced Classification.txt
+5 Learning Tree Structure of Label Dependency for Multi-label Learning.txt
+5 Outlier Detection based on Leave-one-out Density using Binary Decision Diagrams.txt
+5 Relationship Between Diversity and Correlation in Multi-Classifier Systems.txt
+5 Fast Perceptron Decision Tree Learning from Evolving Data Streams.txt
+5 A Novel Scalable Multi-class ROC for Effective.txt
+5 Classifier Ensemble for Uncertain Data Stream Classification.txt
+5 Hybrid Random Forests  Advantages of Mixed Trees in Classifying Text Data.txt
+5 One-Class Transfer Learning with Uncertain Data.txt
+5 A Robust Classifier for Imbalanced Datasets.txt
+5 vaut.txt
+5 Generating Diverse Ensembles to Counter the Problem of Class Imbalance.txt
+5 Ensemble-based wrapper methods for feature selection and class imbalance learning.txt
+5 UNN A Neural Network for uncertain data classification.txt
+5 Evasion Attack of Multi-Class Linear Classifiers.txt
+5 Heterogeneous Ensemble for Feature Drifts in Data Streams.txt
+5 Data Transformation for Sum Squared Residue.txt
+5 Dimensionality Reduction with Dimension Selection.txt
+5 Building Decision Trees for the Multi-class Imbalance Problem.txt
+5 Foundation of Mining Class-Imbalanced Data.txt
+5 Activity Recognition Using a Few Label Samples.txt
+5 Towards More Efficient Multi-label Classification using Dependent and Independent Dual Space Reduction.txt
+5 Efficient Pattern Mining from Uncertain Data with Sampling.txt
+5 Distributed Knowledge Discovery with Non Linear Dimensionality Reduction.txt
+5 Visual Analysis of Uncertainty in Trajectories.txt
+5 Low-rank Matrix Recovery with Discriminant Regularization.txt
+5 Accelerating Outlier Detection with Uncertain Data using Graphics Processors.txt
+5 Co-Embedding of Structurally Missing Data by Locally Linear Alignment.txt
+5 Generating Balanced Classifier-Independent Training Samples from Unlabeled Data.txt
+5 Combining Support Vector Machines and the t-Statistic for Gene Selection in DNA Microarray Data Analysis.txt
+5 Diversity analysis on Boosting Nominal Concepts.txt
+6 Most Significant Substring Mining Based On Chi-square Measure.txt
+6 Robust Outlier Detection Using Commute Time with Eigenspace Embedding.txt
+6 Time Series Forecasting using Distribution Enhanced Linear Regression.txt
+6 A Semi-supervised Incremental Clustering Algorithm for Streaming Data.txt
+6 Shape-based Clustering for Time Series Data.txt
+6 A New, Fast and Accurate Algorithm for Hierarchical Clustering on Euclidean Distances.txt
+6 Efficient trade-off between speed processing and accuracy in summarizing data stream.txt
+6 Clustering Patient Medical Records via Sparse Subspace Representation.txt
+6 Mining Trajectory Corridors Using Frechet Distance and Meshing Grids.txt
+6 A Robust Seedless Algorithm for Correlation Clustering.txt
+6 Subclass-oriented Dimension Reduction with Constraint Transformation and Manifold Regularization.txt
+6 Mining of Temporal Coherent Subspace Clusters in Multivariate Time Series Databases.txt
+6 Scalable Similarity Matching in Streaming Time Series.txt
+6 A Unified Metric for Categorical and Numerical Attributes in Data Clustering.txt
+6 Efficient Mining of Combined Subspace and Subgraph Clusters in Graphs with Feature Vectors.txt
+6 Neighborhood-Based Smoothing of External Cluster Validity Measures.txt
+6 Density-Based Clustering based on Hierarchical Density Estimates.txt
+6 A Set Correlation Model for Partitional Clustering.txt
+6 Mining Contrast Subspaces PAKDD14.txt
+6 SRF A Framework for the Study of Classifier Behavior under Training Set Mislabeling Noise.txt
+6 Determine optimal number of cluster with an elitist evolutionary approach.txt
+6 Visualizing Clusters in Parallel Coordinates for Visual Knowledge Discovery.txt
+6 Compact Margin Machine.txt
+6 Subsequence Matching of StreamSynopses under the Time Warping Distance.txt
+6 Relevant Gene Selection Using Normalized Cut Clustering With Maximal Compression Similarity Measure.txt
+6 Discovering Local Subgroups, with an Application to Fraud Detection.txt
+6 Finding Well-Clusterable Subspaces for High Dimensional Data A Numerical One-Dimension Approach.txt
+6 Spatial Clustering with Obstacles Constraints Using Dynamic Piecewise Linear Chaotic Map and Dynamic Nonlinear PSO.txt
+6 Co-occurring Cluster Mining for Damage Patterns Analysis of a Fuel Cell.txt
+6 Correspondence Clustering An Approach to Cluster Multiple Related Spatial Datasets.txt
+6 Discovery of Regional Co-location Patterns with k-Nearest Neighbor Graph.txt
+6 Self-Training Temporal Dynamic Collaborative Filtering.txt
+7 Topic Decomposition and Summarization.txt
+7 Mining Numbers in Text Using Suffix Arrays and Clustering Based on Dirichlet Process Mixture Models.txt
+7 Bulk loading Hierarchical Mixture Models for Efficient Stream Classification.txt
+7 Hiding Emerging Patterns with Local Recoding Generalization.txt
+7 Leveraging Hybrid Citation Context for Impact Summarization.txt
+7 Feature Enriched Nonparametric Bayesian Co-clustering.txt
+7 AREM  A Novel Associative Regression Model Based On EM Algorithm.txt
+7 Optimal Allocation of High Dimensional Assets through Canonical Vines.txt
+7 Techniques for Efficient Learning without Search.txt
+7 Visualization of PICO Elements for Information Needs Clarification and Query Refinement.txt
+7 Learning from Multiple Observers with Unknown Expertise.txt
+7 Fuzzy Multi-Sphere Support Vector Data Description.txt
+7 Cost-sensitive Listwise Ranking Approach.txt
+7 The Role of Hubs in Cross-lingual Supervised Document Retrieval.txt
+7 CLUEKR   CLUstering based Efficient kNN Regression.txt
+7 Constrained Least Squares Regression for Semi-Supervised Learning.txt
+7 Shifting Hypergraphs by Probabilistic Voting.txt
+7 Multi-Manifold Ranking  Using Multiple Features for Better Image Retrieval.txt
+7 Twin Bridge Transfer Learning for Sparse Collaborative Filtering.txt
+7 Semantic-Distance Based Clustering for XML Keyword Search.txt
+7 An Unsupervised Analysis of Web Page Semantic Structures by Hierarchical Bayesian Modeling.txt
+7 Shingled Graph Disassembly - Finding the Undecideable Path.txt
+7 Normalized kernels and similarity indices.txt
+7 Effective Top-down Active Learning for Hierarchical Text Classification.txt
+7 Active Learning for Hierarchical Text Classification.txt
+7 Multi-Instance Learning from Positive and Unlabeled Bags.txt
+7 Clustering and Understanding Documents via Discrimination Information Maximization.txt
+7 Gaussian Processes Autoencoder for Dimensionality Reduction.txt
+7 An Optimization Method for Proportionally Diversifying Search Results.txt
+7 Extreme Value Prediction for Zero-Inflated Data.txt
+7 Multi-view Visual Classification via a Mixed-norm Regularizer.txt
+7 Rough Margin based Core Vector Machines.txt
+7 Subtopic Mining via Modifier Graph Clustering.txt
+7 Forgetting word segmentation in Chinese text classification with L1-regularized logistic regression.txt
+7 Extensions to Quantile Regression Forests for Very High Dimensional Data.txt
+7 Exploiting Label Dependency for Hierarchical Multi-label Classification.txt
+7 Active Learning for Cross Language Text Categorization.txt
+7 Fast Orthogonal Nonnegative Matrix Tri-Factorization for Simultaneous Clustering.txt
+7 Semi-supervised Feature Analysis for Multimedia Annotation by Mining Label Correlation.txt
+7 Document Clustering with an Augmented Nonnegative Matrix Factorization Model.txt
+7 Multiple Instance Learning for Group Record Linkage.txt
+7 Nystrom Approximate Model Selection for LSSVM.txt
+7 Supervised Nonlinear Factorizations Excel In Semi-supervised Regression.txt
+7 Hierarchical Graph Summarization- Leveraging Hybrid Information through Visible and Invisible Linkage.txt
+7 Unsupervised Multi-Label Text Classification using a World Knowledge Ontology.txt
+7 Orthogonal Nonnegative Matrix Tri-factorization for Semi-supervised Document Co-clustering.txt
+7 Chinese-English OOV Term Translation with Web Mining, Multiple Feature Fusion and Supervised Learning.txt
+7 Topological comparisons of proximity measures.txt
+7 Collective Matrix Factorization of Predictors, Neighborhood and Targets for Semi-Supervised Classification.txt
+7 Classification and Pattern Discovery of Mood in Weblogs.txt
+7 Matrix Factorization with Aggregated Observations.txt
+7 Inducing controlled error over variable length ranked lists.txt
+7 Feature weighting by RELIEF based on local hyperplane approximation.txt
+7 MassBayes  A new generative classifier with multi-dimensional likelihood estimation.txt
+7 A Term Association Translation Model for Naive Bayes Text Classification.txt
+8 Active Learning with c-Certainty.txt
+8 Player Performance Prediction in Massively Multiplayer Online Role-Playing Games (MMORPGs).txt
+8 Fast and Effective Single Pass Bayesian Learning.txt
+8 Decisive Supervised Learning.txt
+8 Efficiently finding the best parameter for the emerging pattern-based classifier PCL.txt
+8 Learning Gradients with Gaussian Processes.txt
+8 CD - A Coupled Discretization Algorithm.txt
+8 An Optimized Cost-Sensitive SVM for Imbalanced Data Learning.txt
+8 Sparse Reductions for Fixed-Size Least Squares Support Vector Machines on Large Scale Data.txt
+8 Programmatic buying bidding strategies with win rate and winning price estimation in real time mobile advertising.txt
+8 TeamSkill Evolved  Mixed Classification Schemes for Team-Based Multi-Player Games.txt
+8 Relevant Feature Selection from EEG Signal for Mental Task Classification.txt
+8 Computational Models of Stress in Reading Using Physiological and Physical Sensor Data.txt
+8 Domain Transfer Dimensionality Reduction via Discriminant Kernel Learning.txt
+8 Selecting Feature Subset via Constraint Association Rules.txt
+8 Learning Overlap Optimization for Domain Decomposition Methods.txt
+30
+28
+45
+72
+27
+41
+32
+55
+16
